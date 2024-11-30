@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  KALYNA GROUP Fullstack developer<br>🤝 Looking for developers with NextJS core stack <br>🌱 Currently learning Typescript, API, AWS and Machine learning systems<br>💬 Ask me about cookies<br>⚡ 2pac my favorite singer  
+🔭  KALYNA GROUP Fullstack developer<br>🤝 Looking for developers with NextJS core stack <br>🌱 Currently learning Typescript, API, AWS and Machine learning systems<br>💬 Ask me about cookies<br>⚡ 2pac is my favorite singer  
 
 
 ## 🌐 Socials:
